@@ -1,9 +1,9 @@
 **CryptoGit** — интерактивный сайт-проект по криптографии: история, популярные шифры, инструменты шифрования/дешифрования, хеширование, тест и источники.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/cryptodigital/cryptogit)
-[![Stars](https://img.shields.io/github/stars/cryptodigital/cryptogit?style=flat&logo=github)](https://github.com/cryptodigital/cryptogit/stargazers)
-[![Issues](https://img.shields.io/github/issues/cryptodigital/cryptogit?style=flat&logo=github)](https://github.com/cryptodigital/cryptogit/issues)
-[![License](https://img.shields.io/github/license/cryptodigital/cryptogit?style=flat)](https://github.com/cryptodigital/cryptogit/blob/main/LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/crypto-digital/cryptogit)
+[![Stars](https://img.shields.io/github/stars/crypto-digital/cryptogit?style=flat&logo=github)](https://github.com/crypto-digital/cryptogit/stargazers)
+[![Issues](https://img.shields.io/github/issues/crypto-digital/cryptogit?style=flat&logo=github)](https://github.com/crypto-digital/cryptogit/issues)
+[![License](https://img.shields.io/github/license/crypto-digital/cryptogit?style=flat)](https://github.com/crypto-digital/cryptogit/blob/main/LICENSE)
 
 [![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![React](https://img.shields.io/badge/React-19.x-149ECA?logo=react&logoColor=white)](https://react.dev/)
