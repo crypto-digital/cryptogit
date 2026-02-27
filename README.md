@@ -45,4 +45,3 @@ npm run lint
 - Tailwind CSS
 - lucide-react (иконки)
 
-
